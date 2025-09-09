@@ -31,14 +31,18 @@ Through this project, I am aiming to:
 
 ## 📸 Preview  
 
-*(Add a screenshot or GIF of your project here once ready)*  
+*(<img width="1355" height="763" alt="Capture" src="https://github.com/user-attachments/assets/56c415c7-d809-4d3c-9a72-096e53e32d5e" />)*  
+*(<img width="1330" height="517" alt="Capture2" src="https://github.com/user-attachments/assets/03fb7c4b-51f5-4c69-a784-9d1ccf8f3246" />)*
+*(<img width="1317" height="552" alt="Capture3" src="https://github.com/user-attachments/assets/088766b2-d4ce-4fdf-a01d-6600c0b52f3b" />)*
+
+
 
 ---
 
 ## 🌍 Live Demo  
 
 🔗 [View Project on Netlify](#)  
-*(Replace `#` with your actual Netlify project link after deployment)*  
+*(https://roaring-vacherin-d02aeb.netlify.app/)*  
 
 ---
 
